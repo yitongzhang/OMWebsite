@@ -1,3 +1,22 @@
 section,article{
   padding:100px 0px;
 }
+
+
+.hero{
+  background-color:black;
+  color:white;
+  font-family:sans-serif;
+  font-size:40px;
+}
+
+.hero p{
+  position: relative;
+  top:300px;
+  z-index: 20;
+  height: 0;
+  margin: 0 270px;
+  font-family:"sofia pro";
+  font-weight: 700;
+  line-height: 1.3
+}
