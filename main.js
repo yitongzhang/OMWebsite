@@ -1,1 +1,1 @@
-particlesJS("particles-js");
+particlesJS("fiat-lux","stars.json");
