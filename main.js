@@ -4,7 +4,7 @@ particlesJS("fiat-lux",
 {
   "particles": {
     "number": {
-      "value": 200,
+      "value": 100,
       "density": {
         "enable": true,
         "value_area": 400
@@ -92,8 +92,8 @@ particlesJS("fiat-lux",
       },
       "bubble": {
         "distance": 400,
-        "size": 255.74425574425575,
-        "duration": 2.237762237762238,
+        "size": 200,
+        "duration": 2,
         "opacity": 1,
         "speed": 3
       },
